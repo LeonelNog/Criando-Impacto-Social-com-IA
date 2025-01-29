@@ -1,6 +1,6 @@
 
 <p align="center">
-    <img width="100" src="[.github/assets/banner.png](https://github.com/LeonelNog/Criando-impacto-Social-com-IA/blob/ff34518b5397a9335a225d95466f636e17d9e286/assets/banner.png)">
+    <img width="100" src="https://github.com/LeonelNog/Criando-impacto-Social-com-IA/blob/ff34518b5397a9335a225d95466f636e17d9e286/assets/banner.png">
 </p>
 
 
