@@ -41,7 +41,7 @@ ChatGPT：
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 |  título  | Crie um titulo de um ebook sobre o tema Inteligência Artificial no Internet Banking CAIXA: Facilitando o Acesso para Idosos, o ebook e do nicho Tecnologia e impacto social, e subnicho de clientes idosos, o titulo deve ser epico e curto, e que tenha uma tematica para pessoas com dificuldade no uso de plataformas digitais, me liste 5 variaçoes de titulos.
-Crie mais cinco variaçoes para o titulo Inteligência Artificial no Internet Banking CAIXA: Facilitando o Acesso para Idosos, tentando deixar ainda mais curto|
+|  Refinando  | Crie mais cinco variaçoes para o titulo Inteligência Artificial no Internet Banking CAIXA: Facilitando o Acesso para Idosos, tentando deixar ainda mais curto|
 | conteúdo | Faça um texto para ebook, com base no jogo Black Desert Online, indicando os primeiros passos para um jogador iniciante. {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto,  , sempre deixe um título sugestivo por tópico |
 
 
