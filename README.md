@@ -21,6 +21,7 @@
 # Desafio CAIXA - Criando impacto Social com IA
 Inteligência Artificial no Internet Banking CAIXA: Facilitando o Acesso para Idosos
 
+
  > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso que fiz na plataforma da [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
