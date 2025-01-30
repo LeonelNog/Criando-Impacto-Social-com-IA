@@ -49,7 +49,7 @@ ChatGPT：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | Retratar imagine uma imagem para a capa do meu ebook "Iniciando no Mundo de Black Desert: Sua Aventura Épica" |
+|Capa | Retratar imagine um senhor idoso, com um celular na mão, sentado em uma poltrona em sua sala, a iluminação da sala deixando os moveis todos com um tom meio azul, estilo desenho, realista, falando com o aplicativo e consultando o seu saldo por comando de voz, que o foco seja a pessoa idosa e que seja possivel ver que no celular o app tbm tenha tons branco com detalhes em azul |
 
 ## ✨ Features
 
