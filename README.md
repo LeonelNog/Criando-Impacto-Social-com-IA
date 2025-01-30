@@ -27,7 +27,7 @@ Inteligência Artificial no Internet Banking CAIXA: Facilitando o Acesso para Id
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
 
-<a href="output/Ebook - Black Desert.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="outputs/Ebook - IBC e IA v2.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 ## 💻 Tecnologias utilizadas no projeto
 
 - [ChatGPT](https://chat.openai.com/) 
